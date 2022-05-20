@@ -24,7 +24,7 @@ import pyglet
 #import Adafruit_GPIO.SPI as SPI
 #import Adafruit_SSD1306 
 import board  
-import digitalio
+#import digitalio
 import importlib.util
 from threading import Thread
 from time import sleep
