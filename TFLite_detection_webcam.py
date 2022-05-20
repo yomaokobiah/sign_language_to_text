@@ -22,7 +22,7 @@ import sys
 import time
 import pyglet
 #import Adafruit_GPIO.SPI as SPI
-import Adafruit_SSD1306 
+#import Adafruit_SSD1306 
 import board  
 import digitalio
 import importlib.util
